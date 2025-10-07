@@ -1,20 +1,20 @@
 div {
-    background-color: #e9edc9;
+    background-color: yellow;
     border-style: solid;
     border-width: 2px;
     border-color: black;
   }
   
   img {
-    max-width: 80%;
+    max-width: %;
   }
   
   #header {
-    background-color: #d4a373;
+    background-color: green;
   }
-.quote{
+quote{
     font-style: italic;
-    color: gray;
+    color: gray
 }
 body {
     background-color: yellow;
