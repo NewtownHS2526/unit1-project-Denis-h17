@@ -12,3 +12,25 @@ div {
   #header {
     background-color: #d4a373;
   }
+.quote{
+    font-style: italic;
+    color: gray;
+}
+body {
+    background-color: yellow;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    text-align: center;
+    color: black;
+    font-size: 36px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+}
+
+  
+
